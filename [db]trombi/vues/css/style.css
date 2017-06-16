@@ -4,9 +4,8 @@
 }
 body{
 	background-size: 46%;
-/**background-image: url("../modeles/img/background.jpg");**/
+	background-image: url("../modeles/img/background.jpg");
 	height: 100vh;
-	background: #EFECCA;
 }
 .content{
 	padding-left: 25%;
