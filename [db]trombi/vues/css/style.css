@@ -3,7 +3,8 @@
 	box-sizing: border-box;
 }
 body{
-	background-size: 46%;
+	/*background-image: url(modeles/img/background.jpg);*/
+	background-size: 75%;
 	background-image: url("../modeles/img/background.jpg");
 	height: 100vh;
 }
