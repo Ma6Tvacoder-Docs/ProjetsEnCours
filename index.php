@@ -10,7 +10,7 @@
 </head>
 <body style="background-image: url(modeles/img/background.jpg);">
 
-  <?php include "vues/body.php"; ?>
+  <?php include "vues/main-page.php"; ?>
 
 </body>
 </html>
